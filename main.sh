@@ -64,7 +64,7 @@ done
 
 # ---
 
-# examples of workign with dates
+# examples of working with dates
 
 # timestamp format string
 FORMAT="%Y-%m-%dT%H:%M:%S.000Z"
