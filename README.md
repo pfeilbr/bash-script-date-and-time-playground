@@ -4,6 +4,8 @@ examples of working with formatted dates in bash including time operations such 
 
 see [`main.sh`](main.sh)
 
+## Running
+
 ```sh
 chmod a+x main.sh 
 fswatch -o main.sh  | xargs -n1 -I{} sh main.sh
